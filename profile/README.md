@@ -16,6 +16,13 @@ Este es un espacio dedicado a la exhibición de mis proyectos más destacados en
 
 ### 🛠️ Ecosistema Tecnológico
 <p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Robotics-FF4B11?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,html,css,vite,git,cpp,arduino,vscode,mongodb,nextjs" />
   </a>
