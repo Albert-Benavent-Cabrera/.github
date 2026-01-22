@@ -3,9 +3,9 @@
 # Bert Labs 👋
 ### Professional Portfolio & Creative Studio
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-albertbenavent.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://albertbenavent.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-albertbenavent.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://albertbenavent.com/portafolio/pagina1/portafolio/pagina1)
 [![GitHub](https://img.shields.io/badge/GitHub-bert27-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bert27)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albert-benavent-cabrera/)
 
 <br/>
 
@@ -23,13 +23,6 @@ Este es un espacio dedicado a la exhibición de mis proyectos más destacados en
 
 ---
 
-### 📊 Actividad y Métricas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bert27&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bert27&layout=compact&theme=radical&hide_border=true" height="170" />
-</p>
-
----
 
 </div>
 
