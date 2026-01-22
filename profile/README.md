@@ -7,11 +7,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-bert27-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bert27)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albert-benavent-cabrera/)
 
-<br/>
-
-### 🚀 Sobre Bert Labs
-Este es un espacio dedicado a la exhibición de mis proyectos más destacados en **Desarrollo Full Stack**, **Robótica** y **Hardware Enthusiast**. Aquí encontrarás sistemas robustos que combinan interfaces modernas con control de hardware en tiempo real.
-
 ---
 
 ### 🛠️ Ecosistema Tecnológico
